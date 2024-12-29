@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+<img src=https://files.catbox.moe/3ul8lx.jpg width=300 height=200>
+</p>
 
-<!--
-**TSUGiNOVA/TSUGiNOVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+⭔﹒ 𝐂 𝚘𝚜𝚖𝚘 / 𝐍 𝚘𝚟𝚊﹒𝟏𝟖-𝟐𝟎 𝐘 𝚛𝚜
+</p>
+<p align="center">
+𝐒 𝚢𝚜𝚝𝚎𝚖 + 𝐂-𝐏 𝚝𝚜𝚍﹔ 〇
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src=https://files.catbox.moe/x6bru2.jpg width=300 height=200>
+</p>
