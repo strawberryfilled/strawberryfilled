@@ -2,7 +2,7 @@
 <img src=https://files.catbox.moe/ef91ta.jpg width=200 height=200>
 </p>
 <p align="center">
-so.. things that i ship. buckle up people, there's.. a lot.
+so.. my shipping information. buckle up people, there's.. a lot.
 </p>
 <p align="center">
 the things that i mainly ship are.. beautysleep (astro x glisten), caketopper (glisten x cosmo), perfectdesserts (glisten x sprout), ragebait (shrimpo x finn), and ichorbrownies (cosmo x dandy)
